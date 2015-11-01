@@ -9,6 +9,7 @@ Android-Task
 **Java篇**
     
  - 推荐阅读(基础)   
+
        [理解java的三大特性之封装][1]   
        [Java 继承][2]   
        [Java类的继承和多态][3]   
@@ -18,10 +19,10 @@ Android-Task
        [Java 多线程总结][6]    
        [一个经典例子让你彻彻底底理解java回调机制][7]  
  - 推荐书籍      
-   1. 基础 <br>
+   1. 基础
  	*Core Java  Volume I*    
  	*Head First Java*   
-   2. 进阶 <br>
+   2. 进阶
     *Effective Java*   
     *Thinking in Java*    
     *深入理解JAVA虚拟机:JVM高级特性与最佳实践*    
@@ -29,17 +30,17 @@ Android-Task
 ------    
     
 **Android篇**   
- - 博客<br>
+ - 博客
       [郭霖的专栏][8]   
       [鸿洋的博客][9]   
       [任玉刚的博客][10]   
       [gao_chun的博客][11]   
    	  [夏安明的博客][12]   
    	  [罗升阳的博客][13]   
- - 书籍<br>
-  1. 基础<br>
+ - 书籍
+  1. 基础
  　　　*第一行代码*   
-  2. 进阶<br>
+  2. 进阶
     *Android 开发艺术探索*   
     *设计模式之禅*   
     *Android 系统源代码情景分析*   
