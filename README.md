@@ -27,7 +27,6 @@ Android-Task
     *深入理解JAVA虚拟机:JVM高级特性与最佳实践*    
  - 资源   
    [The Java™ Tutorials][23]
-
 ------    
     
 **Android篇**   
@@ -48,7 +47,6 @@ Android-Task
     *SQL必知必会*   
     *Android 系统源代码情景分析*   
  - 资源<br>
-	 [Google Android Developer][14]   
  	 [F-Droid Android开源项目][15]    
  	 [API 大全][16]   
  	 [Iconfinder 图标搜索][17]   
@@ -56,6 +54,10 @@ Android-Task
 	 [MD配色示例][19]    
 	 [AndroidDevTools][20]    
 	 [Grepcode源码搜索引擎][21]    
+ - 教程	 
+	 [Google Android Developer][14]   
+	 [Vogella’s Android Tutorials][24]
+	 [CoreServlets Android Programming Tutorials][25]
 	 [廖雪峰的Git教程][22]    
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
@@ -80,3 +82,5 @@ Android-Task
   [21]: http://grepcode.com/
   [22]: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
   [23]: https://docs.oracle.com/javase/tutorial/
+  [24]: http://www.vogella.com/tutorials/android.html
+  [25]: http://www.coreservlets.com/android-tutorial/
