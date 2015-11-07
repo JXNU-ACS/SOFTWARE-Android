@@ -25,7 +25,8 @@ Android-Task
     *Effective Java*   
     *Thinking in Java*    
     *深入理解JAVA虚拟机:JVM高级特性与最佳实践*    
-    
+ - 资源   
+   [The Java™ Tutorials][23]
 ------    
     
 **Android篇**   
@@ -42,10 +43,19 @@ Android-Task
   2. 进阶<br>
     *Android 开发艺术探索*   
     *设计模式之禅*   
+    *大话设计模式*   
+    *SQL必知必会*   
     *Android 系统源代码情景分析*   
-    [Google Training][14]   
- 　
-
+ - 资源<br>
+	 [Google Android Developer][14]   
+ 	 [F-Droid Android开源项目][15]    
+ 	 [API 大全][16]   
+ 	 [Iconfinder 图标搜索][17]   
+	 [Google 官方MD风格图标][18]    
+	 [MD配色示例][19]    
+	 [AndroidDevTools][20]    
+	 [Grepcode源码搜索引擎][21]    
+	 [廖雪峰的Git教程][22]    
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
   [3]: http://www.cnblogs.com/liwustore/archive/2013/01/10/2854416.html
@@ -59,4 +69,13 @@ Android-Task
   [11]: http://blog.csdn.net/gao_chun/article/
   [12]: http://blog.csdn.net/xiaanming
   [13]: http://blog.csdn.net/luoshengyang/
-  [14]: http://developer.android.com/training/index.html
+  [14]: http://developer.android.com/index.html
+  [15]: https://f-droid.org/repository/browse/
+  [16]: https://www.showapi.com/api/apiList
+  [17]: https://www.iconfinder.com/
+  [18]: http://www.google.com/design/icons/
+  [19]: http://www.materialpalette.com/
+  [20]: http://www.androiddevtools.cn/
+  [21]: http://grepcode.com/
+  [22]: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+  [23]: https://docs.oracle.com/javase/tutorial/
