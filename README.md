@@ -26,7 +26,7 @@ Android-Task
     *Thinking in Java*    
     *深入理解JAVA虚拟机:JVM高级特性与最佳实践*    
  - 资源   
-   [The Java™ Tutorials][23]
+   [The Java™ Tutorials][23]   
 ------    
     
 **Android篇**   
@@ -37,6 +37,7 @@ Android-Task
       [gao_chun的博客][11]   
    	  [夏安明的博客][12]   
    	  [罗升阳的博客][13]   
+   	  [Android Weekly][30]
  - 书籍<br>
   1. 基础<br>
  　　　*第一行代码*   
@@ -56,9 +57,16 @@ Android-Task
 	 [Grepcode源码搜索引擎][21]    
  - 教程	 
 	 [Google Android Developer][14]   
-	 [Vogella’s Android Tutorials][24]
-	 [CoreServlets Android Programming Tutorials][25]
+	 [Vogella’s Android Tutorials][24]    
+	 [CoreServlets Android Programming Tutorials][25]    
+	 [31 Days of Android][26]   
 	 [廖雪峰的Git教程][22]    
+	 [Git-简明教程][29]   
+ - 社区   
+ 	 [安卓巴士][27]   
+ 	 [eoe Android社区][28]	 
+ 	 [V2EX Android][31]    
+ 	 [稀土掘金][32]   
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
   [3]: http://www.cnblogs.com/liwustore/archive/2013/01/10/2854416.html
@@ -84,3 +92,10 @@ Android-Task
   [23]: https://docs.oracle.com/javase/tutorial/
   [24]: http://www.vogella.com/tutorials/android.html
   [25]: http://www.coreservlets.com/android-tutorial/
+  [26]: http://chrisrisner.com/31-Days-of-Android/
+  [27]: http://www.apkbus.com/
+  [28]: http://www.eoeandroid.com/
+  [29]: http://rogerdudler.github.io/git-guide/index.zh.html
+  [30]: http://androidweekly.net/
+  [31]: http://v2ex.com/go/android
+  [32]: http://gold.xitu.io/#/
