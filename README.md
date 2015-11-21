@@ -28,11 +28,11 @@
   - 整理时间: 2015年11月21日
   - 提交数目: 2
  
-[1]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.9.26).md)
-[2]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.17).md)
-[3]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.24).md)
-[4]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.31).md)
-[5]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.07).md)
-[6]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%85%AD%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.15).md)
-[7]:(https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.21)%20.md)
+[1]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.9.26).md
+[2]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.17).md
+[3]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.24).md
+[4]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.31).md
+[5]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.07).md
+[6]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%85%AD%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.15).md
+[7]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.21)%20.md
  
