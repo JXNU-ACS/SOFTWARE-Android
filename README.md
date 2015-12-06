@@ -44,3 +44,4 @@
 [6]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%85%AD%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.15).md
 [7]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.21)%20.md
 [8]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E5%85%AB%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.11.29).md
+[9]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.12.06)%20.md
