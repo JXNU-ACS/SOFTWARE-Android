@@ -1,6 +1,6 @@
 Android-Task
 -----
-   _用于布置Android相关练习_
+   _Android资源分享By @[MummyDing][0]_
    
    
 ------
@@ -40,13 +40,17 @@ Android-Task
    	  [Android Weekly][30]
  - 书籍<br>
   1. 基础<br>
- 　　　*第一行代码*   
+ 　　　*[第一行代码][37]*   
   2. 进阶<br>
     *Android 开发艺术探索*   
     *设计模式之禅*   
     *大话设计模式*   
     *SQL必知必会*   
     *Android 系统源代码情景分析*   
+    *[深入理解Android 卷一][33]*   
+    *[深入理解Android 卷二][34]*   
+    *[深入理解Android 卷III][35]*   
+    *Android内核剖析*   
  - 资源<br>
  	 [F-Droid Android开源项目][15]    
  	 [API 大全][16]   
@@ -55,6 +59,9 @@ Android-Task
 	 [MD配色示例][19]    
 	 [AndroidDevTools][20]    
 	 [Grepcode源码搜索引擎][21]    
+	 [CodeKK][36]   
+	 [清华大学 TUNA 镜像源][38]
+	 [Android Source][39]
  - 教程	 
 	 [Google Android Developer][14]   
 	 [Vogella’s Android Tutorials][24]    
@@ -67,6 +74,7 @@ Android-Task
  	 [eoe Android社区][28]	 
  	 [V2EX Android][31]    
  	 [稀土掘金][32]   
+  [0]: https://github.com/MummyDing
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
   [3]: http://www.cnblogs.com/liwustore/archive/2013/01/10/2854416.html
@@ -99,3 +107,10 @@ Android-Task
   [30]: http://androidweekly.net/
   [31]: http://v2ex.com/go/android
   [32]: http://gold.xitu.io/#/
+  [33]: http://blog.csdn.net/innost/article/details/47204321
+  [34]: http://blog.csdn.net/innost/article/details/47252311
+  [35]: http://blog.csdn.net/innost/article/details/47317243
+  [36]: http://p.codekk.com/
+  [37]: http://blog.csdn.net/guolin_blog/article/category/2400923
+  [38]: https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP
+  [39]: https://android.googlesource.com/
