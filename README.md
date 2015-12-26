@@ -77,6 +77,13 @@ Android-Task
  	 [eoe Android社区][28]	 
  	 [V2EX Android][31]    
  	 [稀土掘金][32]   
+ - 技术<br>
+ 	 [soul.Mxn][40]    
+ 	 [memect][41]    
+ 	 [开发技术前线][42]    
+ 	 [Android开发技术周报][43]   
+ 	 
+ 	 
   [0]: https://github.com/MummyDing
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
@@ -117,3 +124,8 @@ Android-Task
   [37]: http://blog.csdn.net/guolin_blog/article/category/2400923
   [38]: https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP
   [39]: https://android.googlesource.com/
+  [40]: http://souly.cn/category/
+  [41]: http://memect.com/
+  [42]: http://www.devtf.cn/
+  [43]: http://androidweekly.cn/
+  
