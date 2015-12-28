@@ -72,6 +72,7 @@ Android-Task
 	 [Vogella’s Android Tutorials][24]    
 	 [CoreServlets Android Programming Tutorials][25]    
 	 [31 Days of Android][26]   
+	 [CodePath Android Cliffnotes][45]    
 	 [廖雪峰的Git教程][22]    
 	 [Git-简明教程][29]   
  - 社区   
@@ -131,4 +132,5 @@ Android-Task
   [42]: http://www.devtf.cn/
   [43]: http://androidweekly.cn/
   [44]: https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf
+  [45]: https://github.com/codepath/android_guides/wiki
   
