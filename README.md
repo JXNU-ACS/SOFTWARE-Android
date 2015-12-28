@@ -43,6 +43,10 @@
 11. [软件组第十一次周报][11]
   - 整理时间: 2015年12月20日
   - 提交数目: 2
+  
+12. 软件组第十二次周报
+  - 整理时间: 2015年12月28日
+  - 提交数目: 0  
  
 [1]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.9.26).md
 [2]:https://github.com/JXNU-ACS/SOFTWARE-Android/blob/WeeklyReport/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%91%A8%E6%8A%A5%E6%95%B4%E7%90%86%E6%80%BB%E7%BB%93(2015.10.17).md
