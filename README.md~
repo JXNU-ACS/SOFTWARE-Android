@@ -48,9 +48,7 @@ Android-Task
     *Android 开发艺术探索*   
     *设计模式之禅*   
     *大话设计模式*   
-    *Design Patterns*    
     *SQL必知必会*   
-    *[软件架构模式][44]*    
     *Android 系统源代码情景分析*   
     *[深入理解Android 卷一][33]*   
     *[深入理解Android 卷二][34]*   
@@ -130,5 +128,4 @@ Android-Task
   [41]: http://memect.com/
   [42]: http://www.devtf.cn/
   [43]: http://androidweekly.cn/
-  [44]: https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf
   
