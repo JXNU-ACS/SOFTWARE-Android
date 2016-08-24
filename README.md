@@ -34,6 +34,8 @@ Android-Task
     
 **Android篇**   
  - 博客<br>
+      [张涛-开源实验室][48]   
+      [廖怙秋的博客][47]    
       [郭霖的专栏][8]   
       [鸿洋的博客][9]   
       [任玉刚的博客][10]   
@@ -43,15 +45,15 @@ Android-Task
    	  [Android Weekly][30]
  - 书籍<br>
   1. 基础<br>
- 　　　*[第一行代码][37]*   
+ 　 *[第一行代码][37]*   
   2. 进阶<br>
-    *Android 开发艺术探索*   
+    *Android 开发艺术探索*  
+    *Android 源码设计模式解析与实战*  
     *设计模式之禅*   
     *大话设计模式*   
     *Design Patterns*    
     *SQL必知必会*   
     *[软件架构模式][44]*    
-    *Android 系统源代码情景分析*   
     *[深入理解Android 卷一][33]*   
     *[深入理解Android 卷二][34]*   
     *[深入理解Android 卷III][35]*   
@@ -85,8 +87,9 @@ Android-Task
  	 [memect][41]    
  	 [开发技术前线][42]    
  	 [Android开发技术周报][43]   
- 	 
- 	 
+ - 推荐阅读<br>
+         [Android-CleanArchitecture][46]    	 
+ 	 [Android 插件化的 过去 现在 未来][49]    
   [0]: https://github.com/MummyDing
   [1]: http://www.cnblogs.com/chenssy/p/3351835.html
   [2]: http://www.runoob.com/java/java-inheritance.html
@@ -133,4 +136,7 @@ Android-Task
   [43]: http://androidweekly.cn/
   [44]: https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf
   [45]: https://github.com/codepath/android_guides/wiki
-  
+  [46]: https://github.com/android10/Android-CleanArchitecture
+  [47]: http://liaohuqiu.net/cn/
+  [48]: http://kymjs.com/
+  [49]: http://kymjs.com/code/2016/05/04/01
